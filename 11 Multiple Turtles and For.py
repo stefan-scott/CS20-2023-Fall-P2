@@ -20,6 +20,8 @@ turtle_list = [martha, frank]  #empty list to put the turtles into
 turtle_list.append(turtle.Turtle()) #append → to add onto the end of...
 color_list = ["blue", "mediumspringgreen", "cadetblue", "lavender"]
 
+
+
 color_index = 0
 
 # Use for loops to control our turtles
